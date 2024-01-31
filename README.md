@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ushi-keshw&label=Profile%20views&color=0e75b6&style=flat" alt="ushi-keshw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ushi-keshw" alt="ushi-keshw" /></a> </p>
 
 - 🔭 I’m currently working on [E-Learning App](https://github.com/sachasa/E-Learning-App-.git)
 
