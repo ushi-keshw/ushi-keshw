@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ushi-keshw"><img src="https://github-readme-stats.vercel.app/api?username=ushi-keshw&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="ushi-keshw's GitHub stats" /></a>
 
